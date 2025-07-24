@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://balamathan0509.github.io/mytrack/sitemap_index.xml
